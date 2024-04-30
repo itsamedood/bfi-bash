@@ -1,4 +1,4 @@
-# bfi-bash
+# bfi-sh
 
 > A working Brainf**k interpreter written in a shell script.
 
